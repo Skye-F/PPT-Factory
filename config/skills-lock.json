@@ -1,0 +1,58 @@
+[
+  {
+    "name": "consulting-deck-expert",
+    "source": "skills/consulting-deck-expert",
+    "repo": "hiamberhuang/presentation-agent-skills",
+    "commit": "9e868af4104d1c07828701d4c36486bfa3ff75d7",
+    "license": "MIT"
+  },
+  {
+    "name": "pptx-generator",
+    "source": "skills/pptx-generator",
+    "repo": "hiamberhuang/presentation-agent-skills",
+    "commit": "9e868af4104d1c07828701d4c36486bfa3ff75d7",
+    "license": "MIT"
+  },
+  {
+    "name": "ppt-pixel-restore",
+    "source": "skills/ppt-pixel-restore",
+    "repo": "hiamberhuang/presentation-agent-skills",
+    "commit": "9e868af4104d1c07828701d4c36486bfa3ff75d7",
+    "license": "MIT"
+  },
+  {
+    "name": "presentation-qa",
+    "source": "skills/presentation-qa",
+    "repo": "hiamberhuang/presentation-agent-skills",
+    "commit": "9e868af4104d1c07828701d4c36486bfa3ff75d7",
+    "license": "MIT"
+  },
+  {
+    "name": "frontend-slides",
+    "source": "",
+    "repo": "zarazhangrui/frontend-slides",
+    "commit": "9906a34d640d2111f724544cbc50f7f130569ae1",
+    "license": "MIT"
+  },
+  {
+    "name": "guizang-ppt-skill",
+    "source": "",
+    "repo": "op7418/guizang-ppt-skill",
+    "commit": "93d21bf4a73a851907a6eb00acbf30618236667a",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "source": ".claude/skills/ui-ux-pro-max",
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "commit": "b7d5353e0130feb8c5574ef1251f8a1db1873ccb",
+    "license": "MIT"
+  },
+  {
+    "name": "ppt-master",
+    "source": "skills/ppt-master",
+    "repo": "hugohe3/ppt-master",
+    "commit": "f3633771fe699d327f02ae86393831bbcf5169f7",
+    "license": "MIT"
+  }
+]

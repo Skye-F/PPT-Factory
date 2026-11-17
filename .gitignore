@@ -1,0 +1,12 @@
+/projects/
+/.agents/skills/
+/.venv/
+/.install-*/
+/vendor/
+/tests/smoke/output/
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+/install-test.log
